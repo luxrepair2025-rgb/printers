@@ -1,1 +1,1 @@
-Redirect page to the current printer status dashboard. Auto-updated.
+Redirect page to the current printer status dashboard. Updated automatically when the tunnel URL changes.
